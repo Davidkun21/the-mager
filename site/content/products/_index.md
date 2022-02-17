@@ -17,7 +17,7 @@ description: >-
 💎Invest $3,000 earn $35,000 
 💎Invest $4,000 earn $45,000 
 💎Invest $5,000 earn $60,000 
-💎Invest $10,000 earn $100,000. 
+💎Invest $10,000 earn $100,000.
 
 🔊 PREMIUM 
 💎1BTC earn 5BTC 
